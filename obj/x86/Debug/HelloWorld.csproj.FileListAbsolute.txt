@@ -1,0 +1,5 @@
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

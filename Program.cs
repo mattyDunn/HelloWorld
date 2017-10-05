@@ -51,6 +51,7 @@ namespace HelloWorld
 
         public static void EvaluateOption (int option, float n1, float n2)
         {
+            /*
             if(option == 1)
             {
                 Console.WriteLine("Result of the addtion: " + AddTwoNumbers(n1, n2));
@@ -78,6 +79,29 @@ namespace HelloWorld
             else
             {
                 Console.WriteLine("Invalid");    
+            }*/
+
+            switch (option)
+            {
+                case 1: 
+                    Console.WriteLine("Result of the addtion: " + AddTwoNumbers(n1, n2));
+                    break;
+                case 2:
+                    Console.WriteLine("Result of the Subraction: " + SubTwoNumbers(n1, n2));
+                    break;
+                case 3:
+                    Console.WriteLine("Result of the Multiplication: " + MultTwoNumbers(n1, n2));
+                    break;
+                case 4:
+                    Console.WriteLine("Result of the Divition: " + DivTwoNumbers(n1, n2));
+                    break;
+                case 5:
+                    return;
+                default:
+                    Console.WriteLine("Invalid");
+					break;
+                    
+                    
             }
 			
             Start();
